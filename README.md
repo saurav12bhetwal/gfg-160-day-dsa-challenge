@@ -1,2 +1,8 @@
-# gfg-160-day-dsa-challenge
-Solutions to GeeksforGeeks 160-Day DSA Challenge in Java
+# GeeksforGeeks 160-Day DSA Challenge
+
+This repository contains my daily progress and solutions in Java for the GFG 160-Day DSA Challenge.
+
+## 📅 Day 1:
+- ✅ Second Largest Number in Array
+- ✅ Move Zero At Last
+- ✅ Reverse Array
