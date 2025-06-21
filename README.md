@@ -78,5 +78,17 @@ Input: k = 3, arr[] = {3, 9, 12, 16, 20}
 Output: 11
 Explanation: The array can be modified as {3+k, 9+k, 12-k, 16-k, 20-k} -> {6, 12, 9, 13, 17}.The difference between the largest and the smallest is 17-6 = 11. 
 
+## 📅 Day 6:
 
+- ✅ 1.Kadane's Algorithm
 
+Question -Given an integer array arr[]. You need to find the maximum sum of a subarray.
+
+Examples:
+
+Input: arr[] = [2, 3, -8, 7, -1, 2, 3]
+Output: 11
+Explanation: The subarray {7, -1, 2, 3} has the largest sum 11.
+Input: arr[] = [-2, -4]
+Output: -2
+Explanation: The subarray {-2} has the largest sum -2.
