@@ -216,3 +216,19 @@ Explanation: The string "ab" occurs twice in txt, one starts at index 0 and the 
 Input: txt = "abesdu", pat = "edu"
 Output: []
 Explanation: There's no substring "edu" present in txt.
+
+## 📅 Day 15:
+- ✅ 19.Min Chars to Add for Palindrome
+
+Question -Given a string s, the task is to find the minimum characters to be added at the front to make the string palindrome.
+
+Note: A palindrome string is a sequence of characters that reads the same forward and backward.
+
+Examples:
+
+Input: s = "abc"
+Output: 2
+Explanation: Add 'b' and 'c' at front of above string to make it palindrome : "cbabc"
+Input: s = "aacecaaaa"
+Output: 2
+Explanation: Add 2 a's at front of above string to make it palindrome : "aaaacecaaaa"
