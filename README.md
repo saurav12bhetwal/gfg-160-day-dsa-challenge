@@ -232,3 +232,19 @@ Explanation: Add 'b' and 'c' at front of above string to make it palindrome : "c
 Input: s = "aacecaaaa"
 Output: 2
 Explanation: Add 2 a's at front of above string to make it palindrome : "aaaacecaaaa"
+
+## 📅 Day 16:
+- ✅ 20.Strings Rotations of Each Other
+
+Question -You are given two strings of equal lengths, s1 and s2. The task is to check if s2 is a rotated version of the string s1.
+
+Note: The characters in the strings are in lowercase.
+
+Examples :
+
+Input: s1 = "abcd", s2 = "cdab"
+Output: true
+Explanation: After 2 right rotations, s1 will become equal to s2.
+Input: s1 = "aab", s2 = "aba"
+Output: true
+Explanation: After 1 left rotation, s1 will become equal to s2.
