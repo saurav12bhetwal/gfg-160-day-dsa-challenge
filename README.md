@@ -268,7 +268,7 @@ Explanation: 0s 1s and 2s are segregated into ascending order.
 
 
 ## 📅 Day 18:
-- ✅ 21.Find H-Index
+- ✅ 22.Find H-Index
 
 Question -Given an integer array citations[], where citations[i] is the number of citations a researcher received for the ith paper. The task is to find the H-index.
 
@@ -282,3 +282,18 @@ Explanation: There are at least 3 papers (3, 5, 3) with at least 3 citations.
 Input: citations[] = [5, 1, 2, 4, 1]
 Output: 2
 Explanation: There are 3 papers (with citation counts of 5, 2, and 4) that have 2 or more citations. However, the H-Index cannot be 3 because there aren't 3 papers with 3 or more citations.
+
+## 📅 Day 19:
+- ✅ 23.Count Inversions
+
+Question -Given an array of integers arr[]. Find the Inversion Count in the array.
+Two elements arr[i] and arr[j] form an inversion if arr[i] > arr[j] and i < j.
+
+Inversion Count: For an array, inversion count indicates how far (or close) the array is from being sorted. If the array is already sorted then the inversion count is 0.
+If an array is sorted in the reverse order then the inversion count is the maximum. 
+
+Examples:
+
+Input: arr[] = [2, 4, 1, 3, 5]
+Output: 3
+Explanation: The sequence 2, 4, 1, 3, 5 has three inversions (2, 1), (4, 1), (4, 3).
