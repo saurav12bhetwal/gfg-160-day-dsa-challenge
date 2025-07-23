@@ -357,3 +357,27 @@ Output:
 [1, 2, 3, 5, 8, 9]
 [10, 13, 15, 20]
 Explanation: After merging two sorted arrays we get 1 2 3 5 8 9 10 13 15 20.
+
+## 📅 Day 24:
+- ✅ 28.Number of occurrence
+
+Question -Given a sorted array, arr[] and a number target, you need to find the number of occurrences of target in arr[]. 
+
+Examples :
+
+Input: arr[] = [1, 1, 2, 2, 2, 2, 3], target = 2
+Output: 4
+Explanation: target = 2 occurs 4 times in the given array so the output is 4.
+
+- ✅ 29.Sorted and Rotated Minimum
+
+Question -A sorted array of distinct elements arr[] is rotated at some unknown point, the task is to find the minimum element in it. 
+
+Examples:
+
+Input: arr[] = [5, 6, 1, 2, 3, 4]
+Output: 1
+Explanation: 1 is the minimum element in the array.
+Input: arr[] = [3, 1, 2]
+Output: 1
+Explanation: Here 1 is the minimum element.
