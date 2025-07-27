@@ -382,6 +382,7 @@ Input: arr[] = [3, 1, 2]
 Output: 1
 Explanation: Here 1 is the minimum element.
 
+## 📅 Day 25:
 - ✅ 30.Search in Rotated Sorted Array
 
 Question -Given a sorted and rotated array arr[] of distinct elements, the task is to find the index of a target key.  If the key is not present in the array, return -1.
@@ -392,6 +393,7 @@ Input: arr[] = [5, 6, 7, 8, 9, 10, 1, 2, 3], key = 3
 Output: 8
 Explanation: 3 is found at index 8.
 
+## 📅 Day 26:
 - ✅ 31.Peak element
 
 Question -You are given an array arr[] where no two adjacent elements are same, find the index of a peak element. An element is considered to be a peak if it is greater than its adjacent elements (if they exist).
